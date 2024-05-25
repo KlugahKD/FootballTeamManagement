@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{AFE44111-F6F2-47FA-A4A6-7ECCC8BC1583}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{CFB7783F-37F8-4F9C-98F5-356F5BB441F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apis", "apis", "{90D55B1A-E105-4157-8EB3-350EF870C87B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballTeamManagement.api", "FootballTeamManagement.api\FootballTeamManagement.api.csproj", "{77C2B930-9CCB-4747-898F-F01634702A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballTeamManagement.common", "FootballTeamManagement.common\FootballTeamManagement.common.csproj", "{667A3985-A075-4D0B-B9D9-79DA1FDB7DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CFB7783F-37F8-4F9C-98F5-356F5BB441F3} = {AFE44111-F6F2-47FA-A4A6-7ECCC8BC1583}
+		{90D55B1A-E105-4157-8EB3-350EF870C87B} = {AFE44111-F6F2-47FA-A4A6-7ECCC8BC1583}
+		{77C2B930-9CCB-4747-898F-F01634702A8C} = {90D55B1A-E105-4157-8EB3-350EF870C87B}
+		{667A3985-A075-4D0B-B9D9-79DA1FDB7DCD} = {CFB7783F-37F8-4F9C-98F5-356F5BB441F3}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C2B930-9CCB-4747-898F-F01634702A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C2B930-9CCB-4747-898F-F01634702A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C2B930-9CCB-4747-898F-F01634702A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C2B930-9CCB-4747-898F-F01634702A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667A3985-A075-4D0B-B9D9-79DA1FDB7DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667A3985-A075-4D0B-B9D9-79DA1FDB7DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667A3985-A075-4D0B-B9D9-79DA1FDB7DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667A3985-A075-4D0B-B9D9-79DA1FDB7DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
