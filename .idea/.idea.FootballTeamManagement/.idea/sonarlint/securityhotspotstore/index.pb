@@ -5,10 +5,6 @@ U
 %FootballTeamManagement.api/Program.cs,c/8/c884ce101bb0a8bce93d6e4c426473feddab0370
 X
 (FootballTeamManagement.common/Program.cs,0/c/0c4c9bca5f64d01fb872d42da813e86275f5e64a
-_
-/FootballTeamManagement.common/Entities/Teams.cs,d/c/dc825c146473dedb8b334ba4b6aa6b2814a7b372
-a
-1FootballTeamManagement.common/Entities/Players.cs,3/b/3b4a5762e3de45baa97a7e1b984e0aa5acd1ac44
 `
 0FootballTeamManagement.common/Entities/Player.cs,f/9/f9435d6918ccedbbdea501c88888baf0d9fcabb0
 _
@@ -39,3 +35,9 @@ BFootballTeamManagement.common/FootballTeamManagement.common.csproj,a/6/a612794
 VFootballTeamManagement.api/obj/Debug/net8.0/FootballTeamManagement.api.AssemblyInfo.cs,9/c/9c753e616950ec9d14c0fd2f9ae62eba2a95cfa6
 J
 FootballTeamManagement.sln,2/8/280ab9092dcbd3c35d3aad5e4e1eaed13df23b66
+g
+7FootballTeamManagement.common/Entities/PlayersReport.cs,0/7/0798bc1bca4b9102d84b4e6c6bf9d42bb8a62b83
+^
+.FootballTeamManagement.common/Entities/User.cs,e/d/ede603913502154d38a4e2cef5cb37ea4b4d625e
+d
+4FootballTeamManagement.common/Entities/BaseEntity.cs,7/6/766d2bc1ee23f91b435c525d384eddda4ed67897
